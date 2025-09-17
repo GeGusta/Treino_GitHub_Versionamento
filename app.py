@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.markdown("# Salário em Dados")
+st.markdown("# Salário em Dados ")
 
 salario_pos = {
     "Júnior": 4000,

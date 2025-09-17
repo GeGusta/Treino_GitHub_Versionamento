@@ -1,6 +1,5 @@
 # Objetivo Projeto Meu git
 Este projeto foi clonado do repositório do @lvgalvao para meu treinamento em GitHub e versionamento de código. Foram feitas mudanças, commits, criado branchs e etc, para verificar as mudanças, como aparece no log, como voltar em uma mudança, o que aparece na linha de mudanças após merge na main, entre outras objetivos de aprendizado.
-
 Antes de mais nada sigam o Luciano Filho, aprendo muito em suas lives.
 
 # 📊 Projeto de Previsão de Salário - Data App com Streamlit
